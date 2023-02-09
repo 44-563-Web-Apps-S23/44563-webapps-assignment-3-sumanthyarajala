@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>About me</title>
+  </head>
+  <body>
+    <p>My name is Yarajala Dileep Sumanth, Previously I worked on a project called google. It hepled me to improve my 
+        technical abilities as well as logical thinking.</p>
+   <h1>Do Epic Shit</h1>
+   <p>Do Epic Shit is a book by Ankur Warikoo where he writes about all the
+     failures and successes he had in his life. Will find valuable lessons in this book that you can use 
+     in your life.</p>
+
+     <img src="th.jpg" alt="Auther is Ankur Warikoo">
+   </body>
+</html>
